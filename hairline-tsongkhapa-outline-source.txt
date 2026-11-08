@@ -1,0 +1,29 @@
+tsongkhapa-outline.svg  viewBox 0 0 2500 3749  (1:1.5)  1839 shapes in 1 group
+title: none   ids: none
+ink: 12..2488 × 12..3737  (99% × 99% of the viewBox)
+
+#1  path    -         box 12..2488 × 12..3737  centre 1250,1874.5  filled  closed, lines, part 1 of 2  (tall, 1:1.5)
+#2  path    -         box 22.5..2477 × 22.2..3726.2  centre 1249.8,1874.2  filled  closed, curves and lines, part 2 of 2  inside #1, middle
+#3  path    -         box 2121.4..2244.5 × 130.7..258.5  centre 2183,194.6  filled  closed, curves and lines, part 1 of 2  inside #1, upper third
+#4  path    -         box 2152.3..2212.1 × 161.9..221.6  centre 2182.2,191.8  filled  closed, curves, part 2 of 2  inside #1, upper third
+#5  path    -         box 251..315 × 159.7..224.4  centre 283,192  filled  closed, curves, part 1 of 2  inside #1, upper third
+#6  path    -         box 252.5..314 × 160.9..223  centre 283.2,192  filled  closed, curves, part 2 of 2  inside #1, upper third
+#9  path    -         box 852.9..1512.6 × 259.4..618.8  centre 1182.8,439.1  filled  closed, curves and lines  inside #1, upper third
+#10 path    -         box 856.9..1642.9 × 265.4..741.6  centre 1249.9,503.5  filled  closed, curves and lines  inside #1, upper third
+#11 path    -         box 918.9..1580.6 × 328.5..705  centre 1249.8,516.8  filled  closed, curves and lines  inside #1, upper third
+#16 path    -         box 1214.7..1264.5 × 343.1..346.6  centre 1239.6,344.9  filled  closed, curves and lines  inside #1, upper third
+#17 path    -         box 930.5..1210.8 × 346.5..699.2  centre 1070.7,522.9  filled  closed, curves and lines  inside #1, upper third
+#19 path    -         box 1302.5..1434.5 × 347.1..398.1  centre 1368.5,372.6  filled  closed, curves and lines  inside #1, upper third
+#21 path    -         box 1523.3..1584.9 × 367..442.6  centre 1554.1,404.8  filled  closed, curves and lines, part 1 of 2  inside #1, upper third
+#23 path    -         box 1427.8..1523 × 399.9..499.6  centre 1475.4,449.8  filled  closed, curves, part 1 of 2  inside #1, upper third
+#25 path    -         box 997.9..1499.4 × 434.9..975  centre 1248.7,705  filled  closed, curves and lines  inside #1, upper third
+#26 path    -         box 847.4..899.2 × 443.1..479  centre 873.3,461.1  filled  closed, curves  inside #1, upper third
+#27 path    -         box 1601.7..2009.5 × 445..1658  centre 1805.6,1051.5  filled  closed, curves and lines  inside #1, upper third
+#30 path    -         box 487.1..834.5 × 481.1..1658  centre 660.8,1069.5  filled  closed, curves  inside #1, upper third
+#32 path    -         box 1616.1..1985.3 × 487.3..1635.7  centre 1800.7,1061.5  filled  closed, curves and lines, part 1 of 4  inside #1, upper third
+#37 path    -         box 511.8..912.6 × 521.9..1636.7  centre 712.2,1079.3  filled  closed, curves and lines, part 1 of 3  inside #1, upper third
+#47 path    -         box 1152.5..1347.5 × 653.9..868.8  centre 1250,761.4  filled  closed, curves and lines, part 1 of 11  inside #1, upper third
+#49 path    -         box 1172.7..1232.9 × 719.3..730.5  centre 1202.8,724.9  filled  closed, curves, part 3 of 11  inside #1, upper third
+#50 path    -         box 1267.2..1327.5 × 719.3..730.9  centre 1297.4,725.1  filled  closed, curves, part 4 of 11  inside #1, upper third
+and 399 more shapes
+and 1417 small shapes
